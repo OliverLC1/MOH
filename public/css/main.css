@@ -232,7 +232,7 @@ form {
     grid-template-rows: repeat(3, 1fr);
     grid-template-rows: minmax(4em, auto);
     background-color: transparent;  
-    min-width: 25em; 
+    min-width: 20em; 
 }
 .form-element {
     border: solid .5px black;
