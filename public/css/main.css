@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     justify-content: center;
     font-family: 'Oranienbaum', serif;
-    width: 1200px;
+    max-width: 1200px;
     margin: auto;
     box-shadow: 0 0 10px 2px #8BC6E6, 0 0 5px 2px #FC358B ;
 }
